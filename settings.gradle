@@ -1,0 +1,18 @@
+rootProject.name = 'leetcose'
+
+include 'shuffle-string'
+include 'intersection-of-two-arrays-II'
+include 'intersection-of-two-arrays'
+include 'running-sum-of-1d-array'
+include 'maximum-number-of-balls-in-a-box'
+include 'richest-customer-wealth'
+include 'minimum-value-to-get-positive-step-by-step-sum'
+include 'find-n-unique-integers-sum-up-to-zero'
+include 'right-naming-of-modules'
+include 'check-if-one-string-swap-can-make-strings-equal'
+include 'buddy-strings'
+include 'determine-if-two-strings-are-close'
+include 'minimum-swaps-to-make-strings-equal'
+include 'string-compression'
+include 'mini-parser'
+
