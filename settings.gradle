@@ -18,4 +18,5 @@ include 'mini-parser'
 include 'design-parking-system'
 include 'goal-parser-interpretation'
 include 'maximum-nesting-depth-of-the-parentheses'
+include 'remove-outermost-parentheses'
 
