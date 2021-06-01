@@ -2,10 +2,10 @@ import java.util.Arrays;
 import java.util.Locale;
 import java.util.stream.Collectors;
 
-public class NameThatFuckingModule {
+public class NameThatModule {
 
     public static void main(String[] args) {
-        final String s = "Mini Parser".trim();
+        final String s = "Design Parking System".trim();
         System.out.printf("\n\nModule name:\n%s\n\nClass name:\n%s\n\n",
                 nameOfModule(s), nameOfClass(s)
         );
