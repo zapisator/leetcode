@@ -16,4 +16,5 @@ include 'minimum-swaps-to-make-strings-equal'
 include 'string-compression'
 include 'mini-parser'
 include 'design-parking-system'
+include 'goal-parser-interpretation'
 
