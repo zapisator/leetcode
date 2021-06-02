@@ -22,4 +22,5 @@ include 'remove-outermost-parentheses'
 include 'partition-labels'
 include 'minimum-add-to-make-parentheses-valid'
 include 'sort-array-by-parity'
+include 'array-partition-i'
 
