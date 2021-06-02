@@ -20,4 +20,5 @@ include 'goal-parser-interpretation'
 include 'maximum-nesting-depth-of-the-parentheses'
 include 'remove-outermost-parentheses'
 include 'partition-labels'
+include 'minimum-add-to-make-parentheses-valid'
 

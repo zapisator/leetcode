@@ -1,0 +1,6 @@
+apply plugin: "io.freefair.lombok"
+apply plugin: "io.spring.dependency-management"
+
+dependencies {
+
+}
