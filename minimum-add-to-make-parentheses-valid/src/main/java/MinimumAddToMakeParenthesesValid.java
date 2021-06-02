@@ -1,12 +1,11 @@
 public class MinimumAddToMakeParenthesesValid {
 
     public int minAddToMakeValid(String s) {
-        final char[] chars = s.toCharArray();
         int counter = 0;
         int balance = 0;
 
-        for (char ch : chars) {
-            balance += ch == '(' ? 1 : -1;
+        for (int i = 0; i < s.length(); i++) {
+            balance += s.charAt(i) == '(' ? 1 : -1;
             if (balance < 0) {
                 balance++;
                 counter++;
